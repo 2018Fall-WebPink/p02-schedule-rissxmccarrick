@@ -1,0 +1,20 @@
+/*
+Marissa McCarrick
+October 23, 2018
+School Schedule-tells me the classes I have
+/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {background-color:hotpink;}
+
+table,td,th {border:1px solid black; }
+table { border-collapse:collapse; }
+thead { background-color: lime; }
+tfoot { background-color: deepskyblue; }
